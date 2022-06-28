@@ -1,3 +1,4 @@
+#!/bin/bash
 # Function to report errors and interrupt the script execution
 function fail() {
 	echo "ERROR: $@"

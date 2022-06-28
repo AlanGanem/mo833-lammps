@@ -1,3 +1,4 @@
+#!/bin/bash
 function fail() {
   echo "ERROR: $@"
   exit 1
